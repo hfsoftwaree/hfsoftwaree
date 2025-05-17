@@ -14,7 +14,7 @@
 - https://github.com/hfsoftwaree/HFManagerUpdate
 - https://github.com/hfsoftwaree/SisgservUpdate
 
-### 🎓 PÓS TECH  
+### 🎓 PÓS TECH (em andamento)  
 **Defensive Cyber Security – Blue Team Operations**
 - 🛡️ Foco atual: Cibersegurança (blue team & hardening)  
   
