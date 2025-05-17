@@ -5,10 +5,10 @@
 - 💾 Delphi 12 + Firebird
 - 🧩 Desenvolvedor de MODs para DayZ Standalone
 - 🧩 Criação e configuração de servidores DayZ
-- 🧩 Desenvolvimento de apicação para gerenciamento de servidores Dayz
-- 🔧 Desenvolviemnto de aplicação para gerenciar donate em servidores Dayz
+- 🔧 Desenvolvimento de apicação Desktop
 - 🛡️ Cibersegurança(em andamento)
 - ⚙️ Ferramentas e soluções sob medida
+- 📍 Projetos próprios & freelas
 
 ### 🚀 Projetos em destaque
 - https://github.com/hfsoftwaree/HFManagerUpdate
