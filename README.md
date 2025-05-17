@@ -13,6 +13,10 @@
 ### 🚀 Projetos em destaque
 - https://github.com/hfsoftwaree/HFManagerUpdate
 - https://github.com/hfsoftwaree/SisgservUpdate
+
+### 🎓 PÓS TECH  
+**Defensive Cyber Security – Blue Team Operations**
+- 🛡️ Foco atual: Cibersegurança (blue team & hardening)  
   
 ### 👨‍💻 Sobre mim
 Trabalho com Delphi desde a versão 4, acompanhando a evolução da linguagem e das tecnologias associadas (VCL, FireDAC, banco de dados Firebird, etc). Tenho ampla experiência em manutenção de sistemas legados, modernização de aplicações e criação de ferramentas sob medida.
