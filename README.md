@@ -11,10 +11,9 @@
 - ⚙️ Ferramentas e soluções sob medida
 
 ### 🚀 Projetos em destaque
-- [HF Manager(Sistema de gerenciamento de servidores DayZ)](#)
-- [Sisgserv(Sistema para controle de dona para servidores Dayz com banco de dados Firebird](#)
-- [MODs customizados para servidores DayZ publicados na steam workshop](#)
-
+- https://github.com/hfsoftwaree/HFManagerUpdate
+- https://github.com/hfsoftwaree/SisgservUpdate
+  
 ### 👨‍💻 Sobre mim
 Trabalho com Delphi desde a versão 4, acompanhando a evolução da linguagem e das tecnologias associadas (VCL, FireDAC, banco de dados Firebird, etc). Tenho ampla experiência em manutenção de sistemas legados, modernização de aplicações e criação de ferramentas sob medida.
 
