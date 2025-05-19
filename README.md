@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor Delphi | Firebird
 
-- 💾 Delphi 12 + Firebird
+- 💾 Delphi 7/12 + Firebird
 - 🧩 Desenvolvedor de MODs para DayZ Standalone
 - 🧩 Criação e configuração de servidores DayZ
 - 🔧 Desenvolvimento de apicação Desktop
