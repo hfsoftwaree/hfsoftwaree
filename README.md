@@ -25,5 +25,8 @@ Trabalho com Delphi desde a versão 4, acompanhando a evolução da linguagem e 
 - 📧 hfsoftwaree@gmail.com
 - 🎮 Discord: https://discord.gg/Sfvm9TMRur
 
+### 💸 APOIO
+- PIX: hfsoftwaree@gmail.com
+
 ⚠️ Alguns projetos são privados.  
 Para acesso ou colaborações, entre em contato por e-mail
