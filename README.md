@@ -2,10 +2,10 @@
 
 ### 👨‍💻 Desenvolvedor Delphi | Firebird
 
-- 💾 Delphi 7/12 + Firebird
+- 💾 Delphi 7/12 + Firebird 2.5 + QuickReport
 - 🧩 Desenvolvedor de MODs para DayZ Standalone
 - 🧩 Criação e configuração de servidores DayZ
-- 🔧 Desenvolvimento de apicação Desktop
+- 🔧 Desenvolvimento de aplicação Desktop
 - 🛡️ Cibersegurança(em andamento)
 - ⚙️ Ferramentas e soluções sob medida
 - 📍 Projetos próprios & freelas
