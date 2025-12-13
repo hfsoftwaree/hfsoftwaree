@@ -8,10 +8,11 @@
 ### 👨‍💻 Desenvolvedor Delphi | Firebird
 
 - 💾 Delphi 7/12 + Firebird 2.5 + QuickReport
+- 🔧 Desenvolvimento de aplicação Desktop
+- 🤖 Integração API Discord
 - 🧩 Desenvolvedor de MODs para DayZ Standalone
 - 🧩 Criação e configuração de servidores DayZ
-- 🔧 Desenvolvimento de aplicação Desktop
-- 🛡️ Cibersegurança(em andamento)
+- 🛡️ Ciber segurança Blue team(em andamento)
 - ⚙️ Ferramentas e soluções sob medida
 - 📍 Projetos próprios & freelas
 
@@ -24,7 +25,7 @@
 - 🛡️ Foco atual: Cibersegurança (blue team & hardening)  
   
 ### 👨‍💻 Sobre mim
-Trabalho com Delphi desde a versão 4, acompanhando a evolução da linguagem e das tecnologias associadas (VCL, FireDAC, banco de dados Firebird, etc). Tenho ampla experiência em manutenção de sistemas legados, modernização de aplicações e criação de ferramentas sob medida.
+Trabalho com Delphi desde a versão 4, acompanhando a evolução da linguagem e das tecnologias associadas (VCL, FireDAC, banco de dados Firebird, integrações API Discord, etc). Tenho ampla experiência em manutenção de sistemas legados, modernização de aplicações e criação de ferramentas sob medida.
 
 ### 📫 Contato
 - 📧 hfsoftwaree@gmail.com
