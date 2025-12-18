@@ -1,38 +1,52 @@
-<h1 align="center">Bem-Vindo 👋</h1>
+<h1 align="center">Bem-vindo 👋</h1>
 
 <p align="center">
 📄 <strong>Currículo Online</strong><br>
 👉 https://hfsoftwaree.github.io/curriculo/
 </p>
 
-### 👨‍💻 Desenvolvedor Delphi | Firebird
+---
 
-- 💾 Delphi 7/12 + Firebird 2.5 + QuickReport
-- 🔧 Desenvolvimento de aplicação Desktop
-- 🤖 Integração API Discord
-- 🧩 Desenvolvedor de MODs para DayZ Standalone
-- 🧩 Criação e configuração de servidores DayZ
-- 🛡️ Ciber segurança Blue team(em andamento)
-- ⚙️ Ferramentas e soluções sob medida
-- 📍 Projetos próprios & freelas
+### 👨‍💻 Desenvolvedor Delphi Sênior | Sistemas ERP | Firebird
+
+- 💾 Delphi (4 a 12) | Firebird | InterBase | QuickReport
+- 🖥️ Desenvolvimento de aplicações desktop corporativas (ERP)
+- 🌐 Sistemas multiusuário com acesso LAN e WAN
+- 🔧 Manutenção, modernização e evolução de sistemas legados
+- ⚙️ Desenvolvimento de ferramentas e soluções sob medida
+- 🤖 Integração com APIs externas (Discord, Webhooks, HTTP/JSON)
+- 🛡️ Especialização em Cibersegurança (Blue Team) – em andamento
+- 📍 Projetos próprios e freelances
+
+---
 
 ### 🚀 Projetos em destaque
-- https://github.com/hfsoftwaree/HFManagerUpdate
-- https://github.com/hfsoftwaree/SisgservUpdate
+- 🔹 HF Manager – Monitoramento de servidores DayZ + integração Discord  
+  https://github.com/hfsoftwaree/HFManagerUpdate
 
-### 🎓 PÓS TECH (em andamento)  
-**Defensive Cyber Security – Blue Team Operations**
-- 🛡️ Foco atual: Cibersegurança (blue team & hardening)  
-  
+- 🔹 SISGSERV – Sistema de Gerenciamento de Servidores (Delphi 7 + Firebird)  
+  https://github.com/hfsoftwaree/SisgservUpdate
+
+---
+
+### 🎓 Formação
+**Especialização em Cibersegurança – Blue Team Operations (em andamento)**  
+Foco em hardening, monitoramento, análise de eventos e resposta a incidentes.
+
+---
+
 ### 👨‍💻 Sobre mim
-Trabalho com Delphi desde a versão 4, acompanhando a evolução da linguagem e das tecnologias associadas (VCL, FireDAC, banco de dados Firebird, integrações API Discord, etc). Tenho ampla experiência em manutenção de sistemas legados, modernização de aplicações e criação de ferramentas sob medida.
+Atuo com desenvolvimento em Delphi desde a versão 4, acompanhando a evolução da linguagem e do ecossistema ao longo de mais de 20 anos. Possuo ampla experiência em sistemas ERP, processos contábeis, fiscais, financeiros e administrativos, o que me permite desenvolver soluções alinhadas à realidade das empresas.
+
+Trabalho de forma end-to-end: análise, arquitetura, desenvolvimento, versionamento, implantação e suporte.
+
+---
 
 ### 📫 Contato
-- 📧 hfsoftwaree@gmail.com
+- 📧 Email: hfsoftwaree@gmail.com
 - 🎮 Discord: https://discord.gg/Sfvm9TMRur
 
-### 💸 APOIO
-- PIX: hfsoftwaree@gmail.com
+---
 
 ⚠️ Alguns projetos são privados.  
-Para acesso ou colaborações, entre em contato por e-mail
+Para acesso, parcerias ou colaborações, entre em contato.
