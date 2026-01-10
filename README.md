@@ -21,7 +21,7 @@
 ---
 
 ### 🚀 Projetos em destaque
-- 🔹 HF Manager – Monitoramento de servidores DayZ + integração Discord  
+- 🔹 HF Manager – Monitoramento de servidores DayZ + Integração Steam + Integração Discord  
   https://github.com/hfsoftwaree/HFManagerUpdate
 
 - 🔹 SISGSERV – Sistema de Gerenciamento de Servidores (Delphi 7 + Firebird)  
