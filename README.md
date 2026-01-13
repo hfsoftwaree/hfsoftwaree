@@ -2,16 +2,17 @@
 
 
 
-### 👨‍💻 Desenvolvedor Delphi | Sistemas ERP | Firebird
+### 👨‍💻 Desenvolvedor Delphi | Sistemas ERP | Firebird<br><br>
 
-- 💾 Delphi (4 a 12) | Firebird | InterBase | QuickReport
-- 🖥️ Desenvolvimento de aplicações desktop corporativas (ERP)
-- 🌐 Sistemas multiusuário com acesso LAN e WAN
-- 🔧 Manutenção, modernização e evolução de sistemas legados
-- ⚙️ Desenvolvimento de ferramentas e soluções sob medida
-- 🤖 Integração com APIs externas (Discord, Webhooks, HTTP/JSON)
-- 🛡️ Especialização em Cibersegurança (Blue Team) – em andamento
-- 📍 Projetos próprios e freelances
+
+💾 Tecnologias:
+
+-🖥️ Desenvolvimento de aplicações desktop corporativas multiusuário (ERP)<br>
+-🔧 Manutenção e modernização de sistemas legados<br>
+-⚙️ Ferramentas e soluções personalizadas para automação<br>
+-🌐 Integração com APIs externas (Discord, Webhooks, HTTP/JSON)<br>
+-🛡️ &nbsp;Especialização em Cibersegurança (Blue Team) – em andamento<br>
+-📍 &nbsp;&nbsp;Projetos próprios e freelance
 
 ---
 
