@@ -1,7 +1,6 @@
 <h1 align="center">Bem-vindo 👋</h1>
 
 
----
 
 ### 👨‍💻 Desenvolvedor Delphi Sênior | Sistemas ERP | Firebird
 
