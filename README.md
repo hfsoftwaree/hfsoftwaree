@@ -1,9 +1,5 @@
 <h1 align="center">Bem-vindo 👋</h1>
 
-<p align="center">
-📄 <strong>Currículo Online</strong><br>
-👉 https://hfsoftwaree.github.io/curriculo/
-</p>
 
 ---
 
