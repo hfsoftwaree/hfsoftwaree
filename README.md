@@ -2,7 +2,7 @@
 
 
 
-### 👨‍💻 Desenvolvedor Delphi Sênior | Sistemas ERP | Firebird
+### 👨‍💻 Desenvolvedor Delphi | Sistemas ERP | Firebird
 
 - 💾 Delphi (4 a 12) | Firebird | InterBase | QuickReport
 - 🖥️ Desenvolvimento de aplicações desktop corporativas (ERP)
@@ -21,19 +21,6 @@
 
 - 🔹 SISGSERV – Sistema de Gerenciamento de Servidores (Delphi 7 + Firebird)  
   https://github.com/hfsoftwaree/SisgservUpdate
-
----
-
-### 🎓 Formação
-**Especialização em Cibersegurança – Blue Team Operations (em andamento)**  
-Foco em hardening, monitoramento, análise de eventos e resposta a incidentes.
-
----
-
-### 👨‍💻 Sobre mim
-Atuo com desenvolvimento em Delphi desde a versão 4, acompanhando a evolução da linguagem e do ecossistema ao longo de mais de 20 anos. Possuo ampla experiência em sistemas ERP, processos contábeis, fiscais, financeiros e administrativos, o que me permite desenvolver soluções alinhadas à realidade das empresas.
-
-Trabalho de forma end-to-end: análise, arquitetura, desenvolvimento, versionamento, implantação e suporte.
 
 ---
 
