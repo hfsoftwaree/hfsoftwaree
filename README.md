@@ -2,12 +2,11 @@
 
 ### 👨‍💻 Senior Developer | Delphi | ERP | Firebird | Web
 
-💾 Principais habilidades:
-
 - 🖥️ Desenvolvimento de aplicações desktop corporativas multiusuário (ERP)  
 - 🌐 Desenvolvimento Web e integração com APIs externas (Discord, Webhooks, HTTP/JSON)  
 - 🔧 Manutenção e modernização de sistemas legados  
-- ⚙️ Automação e ferramentas personalizadas  
+- ⚙️ Automação e ferramentas personalizadas
+- 🎮 Criação de mods e customização de servidores DayZ    
 - 📍 Projetos próprios e freelance
 
 ---
