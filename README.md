@@ -34,6 +34,7 @@
   [Repositório](https://github.com/hfsoftwaree/SisgservUpdate)
 
 - 🔹 **Dashboard Web (JavaScript)** – Aplicação web com integração a APIs e manipulação de dados via HTTP/JSON *(projeto em desenvolvimento)*
+  🌐 **Demo:** https://hfsoftware.vercel.app/
 
 ---
 
