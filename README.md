@@ -7,7 +7,6 @@ Technologies:
 - JSON
 - REST APIs
 - Discord Integration
-- SteamCMD
 - Game Server Automation
 
 Projects:
